@@ -8,7 +8,7 @@ spec:
 
   source:
     repoURL: https://github.com/yangchuansheng/argocd-lab.git
-    targetRevision: HEAD1
+    targetRevision: HEAD
     path: dev
   destination: 
     server: https://kubernetes.default.svc
